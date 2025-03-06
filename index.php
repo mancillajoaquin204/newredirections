@@ -1,5 +1,5 @@
 <?php
-$url = "https://main.ds0tl22r3y07a.amplifyapp.com/";
+$url = "https://mychart.org/";
 header('Location: '.$url);
 die();
 ?>
