@@ -1,5 +1,5 @@
 <?php
-$url = "https://main.d2zbzvqtp4s5uh.amplifyapp.com/";
+$url = "https://main.d35ccdecu7b8oy.amplifyapp.com/";
 header('Location: '.$url);
 die();
 ?>
