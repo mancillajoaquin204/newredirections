@@ -1,5 +1,5 @@
 <?php
-$url = "https://mmychart.org";
+$url = "https://mychart.org";
 header('Location: '.$url);
 die();
 ?>
